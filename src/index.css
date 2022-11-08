@@ -54,21 +54,20 @@ input{
   border-radius: 12px;
   background-color:#353535;
   border: none;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 16px;
   
 }
 
-input::placeholder{
-  color: white;
-}
-
 button{
-  padding: 14px 44px;
+  padding: 14px 50px;
   background-color: #36CE7C;
   font-size: 16px;
+  font-weight: 600;
   color: white;
   border:none;
   border-radius: 12px;
-  margin: 16px 0;
+  margin: 18px 0;
   align-self: flex-end;
   cursor: pointer;
   transition: all;
